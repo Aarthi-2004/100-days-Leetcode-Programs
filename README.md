@@ -69,21 +69,6 @@ Serve as a coding diary and resource for others looking to begin or continue the
 
 
 
-
-
-📚 Structure
-
-
-📁 100-Days-LeetCode
- ┣ 📁 Day01_ProductOfArrayExceptSelf
- ┃ ┗ 📄 Solution.java
- ┃ ┗ 📄 README.md
- ┣ 📁 Day02_ValidAnagram
- ┃ ┗ 📄 Solution.java
- ┗ ...
-
-
-
 Each day has its own folder containing the solution file and a brief explanation if needed.
 
 
